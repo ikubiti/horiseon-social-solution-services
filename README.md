@@ -1,2 +1,2 @@
-# horiseon-week01-challenge
+# Horiseon Social Services
 A code refactoring project
