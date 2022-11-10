@@ -16,7 +16,7 @@ Horiseon Social Solution Services exists to assist their clients to improve thei
 
 ## Installation
 
-N/A
+Visit https://ikubiti.github.io/horiseon-social-solution-services/
 
 ## Usage
 
